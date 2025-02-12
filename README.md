@@ -1,14 +1,14 @@
-# Splithub AB Testing Starter
+# Splithub AB Easy Testing
 
-[![Splithub Logo](https://splithub.io/assets/img/th-1/logo.png)](https://splithub.io)
+[![Splithub Logo](https://splithub.io/assets/img/sh-intro.jpg)](https://splithub.io)
 
-**Splithub AB Testing Starter** is a free, open-source solution for quickly starting A/B testing on your website. With our simple approach, you just need to build your configuration and add a script to your site—no complicated setups required!
+**Splithub AB Easy Testing** is a free, open-source solution for quickly starting A/B testing on your website. With our simple approach, you just need to build your configuration and add a script to your site—no complicated setups required!
 
 **Get Started:** Use our [AB Test Config Builder](https://splithub.io/builder) to generate your configuration code in seconds.
 
 ## Overview
 
-Splithub AB Testing Starter allows you to set up A/B tests with two main test types:
+Splithub AB Easy Testing allows you to set up A/B tests with two main test types:
 
 - **Redirect:** Automatically send users to different URLs based on their assigned variant.
 - **Edits:** Modify page elements (e.g., hide or show blocks) based on the assigned variant.
@@ -92,4 +92,4 @@ If you have any questions, suggestions, or need support, please visit our Splith
 
 This project is licensed under the MIT License.
 
-Splithub is a platform dedicated to making A/B testing simple and accessible. Enjoy testing and optimizing your website with Splithub AB Testing Starter!
+Splithub is a platform dedicated to making A/B testing simple and accessible. Enjoy testing and optimizing your website with Splithub AB Easy Testing!
