@@ -78,6 +78,15 @@ Variants are stored persistently using either cookies or localStorage, ensuring 
     </script>
     ```
 
+## Direct Link for Variants
+
+In addition to the existing functionality, users now have the option to create tests in Splithub that generate a unique Direct Link for each variant. This enables you to:
+
+- **Client-Side Testing:** The split test and redirect are executed on the client side, ensuring a faster and smoother user experience.
+- **Direct Data Sending:** Data is sent directly to the provided Direct Links, allowing for real-time data aggregation.
+- **Centralized Data Aggregation:** All test data is aggregated in the Splithub platform, making it easy to analyze results and optimize performance.
+- **Accelerated Redirect Process:** By handling the redirect on the client side, the process is significantly sped up, reducing latency and improving overall efficiency.
+
 ## Getting Started
 
 Simply use the AB Test Config Builder to generate your configuration, then add the generated code snippet into your HTML.
